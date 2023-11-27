@@ -98,3 +98,6 @@ https://stackoverflow.com/questions/46986398/import-data-into-google-colaborator
 
 # Dependencies
 This activity was completed using Google Colab, but dependencies included scikitlearn, standardscaler, pandas, and google
+
+# Author
+Allison Potestio
