@@ -95,3 +95,6 @@ Summary: Summarize the overall results of the deep learning model. Include a rec
 # Resources
 https://stackoverflow.com/questions/53838304/format-of-adding-hidden-layers-in-keras
 https://stackoverflow.com/questions/46986398/import-data-into-google-colaboratory
+
+# Dependencies
+This activity was completed using Google Colab, but dependencies included scikitlearn, standardscaler, pandas, and google
